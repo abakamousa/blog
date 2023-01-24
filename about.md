@@ -1,10 +1,8 @@
 ---
-title: About
+title: About me !
 layout: page
 permalink: /about/
 ---
-
-About me!
 
 
 
