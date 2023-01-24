@@ -16,7 +16,7 @@ My scientific publications are available at: [Scholar ](https://scholar.google.f
 
 ##  📝 Proceedings
 
-* [GreenWebAdvisor: Discovering and Recommending Hidden Eco-design' Best-practices] (), Moussa Aboubakar, Moubarak Zoure, Ines BEN KRAIEM, Mouna Ben Mabrouk. In 2022 International Conference on Computational Science and Computational Intelligence.
+* [GreenWebAdvisor: Discovering and Recommending Hidden Eco-design' Best-practices] (https://www.researchgate.net/publication/366356177_GreenWebAdvisor_Discovering_and_Recommending_Hidden_Eco-design'_Best-practices), Moussa Aboubakar, Moubarak Zoure, Ines BEN KRAIEM, Mouna Ben Mabrouk. In 2022 International Conference on Computational Science and Computational Intelligence.
 * [A novel scheme for congestion notification in IoT low power networks](https://ieeexplore.ieee.org/abstract/document/9464041), Aboubakar, Moussa, Pierre Roux, Mounir Kellil, and Abdelmadjid Bouabdallah.  In 2021 IFIP/IEEE International Symposium on Integrated Network Management (IM), pp. 932-937. IEEE, 2021.
 * [A Predictive Model for Power Consumption Estimation Using Machine Learning](https://ieeexplore.ieee.org/abstract/document/9698681), 	A Predictive Model for Power Consumption Estimation Using Machine Learning. In 2021 International Conference on Electrical, Computer and Energy Technologies (ICECET), pp. 1-5. IEEE, 2021.
 * [An Efficient and Adaptive Configuration of IEEE 802.15.4 MAC for Communication Delay Optimisation](https://ieeexplore.ieee.org/abstract/document/9249218), Aboubakar, Moussa, Pierre Roux, Mounir Kellil, and Abdelmadjid Bouabdallah. In 2020 11th International Conference on Network of the Future (NoF), pp. 1-7. IEEE, 2020.
