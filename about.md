@@ -1,14 +1,20 @@
 ---
-layout: page
 title: About
+layout: page
 permalink: /about/
 ---
 
 Some information about you!
 
-### More Information
+Hi, my name is ABOUBAKAR Moussa, I am Data scientist and project manager at Capgemini in France. I have a **PhD in Computer Science** from **Université de Technologie de Compiègne**. I worked as a Research Engineer at the Laboratory of Communicating Systems (LSC) of **French Atomic Energy Commission**, where I proposed machine learning based solutions for network management. 
 
-A place to include any other types of information that you'd like to include about yourself.
+### Interests
+* Machine learning
+* Deep learning
+* Anomalie detection
+* Machine learning for networking
+
+
 
 ### Contact me
 
