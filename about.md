@@ -24,7 +24,7 @@ My name is ABOUBAKAR Moussa, I am Data scientist and project manager at Capgemin
 * 2017, Master 2 Ingénierie des réseaux, *Université de Paris Saclay, France* 
 
 ### Certificate 
-* 2022, Data scientist, *Datascientest and Sorbonnes Universités*
+* 2022, Data scientist, *Datascientest and Sorbonne Universités*
 
 
 
