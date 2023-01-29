@@ -15,6 +15,10 @@ permalink: /about/
 * Anomalie detection
 * Machine learning for networking
 
+### Education
+
+### Certificate 
+
 
 
 ### Contact me
