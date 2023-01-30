@@ -16,6 +16,7 @@ My name is ABOUBAKAR Moussa, I am Data scientist and project manager at Capgemin
 * Deep learning
 * Anomalie detection
 * Machine learning for networking
+* Green IT
 
 ### Education
 
