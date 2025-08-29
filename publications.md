@@ -13,6 +13,9 @@ My scientific publications are available at: [Scholar ](https://scholar.google.f
 ## 📜 Journal
 * [A review of IoT Network Management: Current Status and Perspectives](https://www.sciencedirect.com/science/article/pii/S1319157821000707), Aboubakar, Moussa, Mounir Kellil, and Pierre Roux, Journal of King Saud University-Computer and Information Sciences (2021).
 * [Adaptive scheme for outliers detection in wireless sensor networks](https://www.proquest.com/openview/783e74b9bccbf2184890832acc2ab086/1?pq-origsite=gscholar&cbl=2044553), Yenké, Blaise Omer, Moussa Aboubakar, Chafiq Titouna, Ado Adamou Abba Ari, and Abdelhak Mourad Gueroui. International Journal of Computer Networks and Communications Security 5, no. 5 (2017): 105.
+* [IoT-5G and B5G/6G resource allocation and network slicing orchestration using learning algorithms](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/ntw2.70002), Abba Ari, A. A., Samafou, F., Ndam Njoya, A., Djedouboum, A. C., Aboubakar, M., & Mohamadou, A. (2025). IoT‐5G and B5G/6G resource allocation and network slicing orchestration using learning algorithms. IET Networks, 14(1), e70002.
+* [PdM-FSA: Predictive Maintenance Framework with Fault Severity Awareness in industry 4.0 using Machine Learning](https://espace2.etsmtl.ca/id/eprint/29789/1/Abran-A-2024-29789.pdf), Moulla, D. K., Mnkandla, E., Aboubakar, M., Ari, A. A. A., & Abran, A. (2024). PdM-FSA: predictive maintenance framework with fault severity awareness in Industry 4.0 using machine learning. International Journal of Electrical and Computer Engineering, 14(6), 7211-7223.
+
 
 ##  📝 Proceedings
 
