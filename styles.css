@@ -222,6 +222,7 @@ p {
   gap: 18px;
 }
 
+.profile-card,
 .spotlight-card,
 .mini-card,
 .feature-card,
@@ -233,6 +234,20 @@ p {
   border: 1px solid rgba(255, 255, 255, 0.76);
   box-shadow: var(--shadow);
   backdrop-filter: blur(14px);
+}
+
+.profile-card {
+  padding: 14px;
+  border-radius: var(--radius-xl);
+}
+
+.profile-image {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 4.2;
+  object-fit: cover;
+  object-position: center top;
+  border-radius: calc(var(--radius-xl) - 8px);
 }
 
 .spotlight-card {
@@ -343,6 +358,26 @@ p {
   gap: 18px;
 }
 
+.publication-note {
+  max-width: 52ch;
+  margin: 0 0 24px;
+}
+
+.publication-groups {
+  display: grid;
+  gap: 24px;
+}
+
+.publication-group {
+  display: grid;
+  gap: 16px;
+}
+
+.publication-group > h3 {
+  font-family: "Fraunces", serif;
+  font-size: 1.45rem;
+}
+
 .publication-list {
   display: grid;
   gap: 16px;
@@ -362,6 +397,14 @@ p {
 
 .publication-item p {
   margin: 8px 0 0;
+}
+
+.publication-item a {
+  display: inline-flex;
+  margin-top: 14px;
+  color: var(--primary-deep);
+  font-weight: 700;
+  text-decoration: none;
 }
 
 .contact-card {
