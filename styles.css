@@ -101,14 +101,14 @@ body::before {
   padding: 48px 0 32px;
 }
 
-.hero-copy,
+.about,
 .hero-panel,
 .section,
 .contact-card {
   position: relative;
 }
 
-.hero-copy {
+.about {
   padding: 40px;
   border-radius: var(--radius-xl);
   background: linear-gradient(135deg, rgba(255, 249, 243, 0.92), rgba(255, 243, 225, 0.86));
@@ -116,7 +116,7 @@ body::before {
   box-shadow: var(--shadow);
 }
 
-.hero-copy::after {
+.about::after {
   content: "";
   position: absolute;
   inset: auto 24px 24px auto;
@@ -312,8 +312,10 @@ p {
   gap: 24px;
 }
 
-.intro-grid {
+.about-block {
+  display: grid;
   grid-template-columns: minmax(240px, 0.8fr) minmax(0, 1.2fr);
+  gap: 24px;
 }
 
 .about-copy {
@@ -471,7 +473,7 @@ p {
   .hero,
   .writing-layout,
   .contact-card,
-  .intro-grid,
+  .about-block,
   .card-grid {
     grid-template-columns: 1fr;
   }
@@ -501,7 +503,7 @@ p {
     padding-top: 20px;
   }
 
-  .hero-copy,
+  .about,
   .section,
   .contact-card,
   .spotlight-card {
