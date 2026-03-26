@@ -262,6 +262,14 @@ p {
   line-height: 1.8;
 }
 
+.spotlight-card a {
+  display: inline-flex;
+  margin-top: 18px;
+  color: var(--primary-deep);
+  font-weight: 700;
+  text-decoration: none;
+}
+
 .mini-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
