@@ -244,7 +244,7 @@ p {
 .profile-image {
   display: block;
   width: 100%;
-  aspect-ratio: 4 / 4.2;
+  aspect-ratio: 4 / 4.8;
   object-fit: cover;
   object-position: center top;
   border-radius: calc(var(--radius-xl) - 8px);
@@ -305,7 +305,16 @@ p {
 }
 
 .intro-grid {
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: minmax(240px, 0.8fr) minmax(0, 1.2fr);
+}
+
+.about-copy {
+  display: grid;
+  gap: 18px;
+}
+
+.about-profile {
+  align-self: start;
 }
 
 .card-grid {
@@ -421,6 +430,22 @@ p {
   gap: 24px;
   padding: 36px;
   border-radius: var(--radius-xl);
+}
+
+.contact-links {
+  display: grid;
+  align-content: start;
+}
+
+.contact-link {
+  justify-content: flex-start;
+  gap: 12px;
+}
+
+.contact-icon {
+  width: 20px;
+  height: 20px;
+  flex: 0 0 20px;
 }
 
 .reveal {
