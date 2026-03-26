@@ -329,6 +329,14 @@ p {
   margin-bottom: 0;
 }
 
+.feature-card a {
+  display: inline-flex;
+  margin-top: 18px;
+  color: var(--primary-deep);
+  font-weight: 700;
+  text-decoration: none;
+}
+
 .writing-layout {
   grid-template-columns: 1.1fr 0.9fr;
 }
