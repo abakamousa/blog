@@ -306,8 +306,7 @@ p {
   margin-bottom: 28px;
 }
 
-.intro-grid,
-.writing-layout {
+.intro-grid {
   display: grid;
   gap: 24px;
 }
@@ -354,35 +353,6 @@ p {
   color: var(--primary-deep);
   font-weight: 700;
   text-decoration: none;
-}
-
-.writing-layout {
-  grid-template-columns: 1.1fr 0.9fr;
-}
-
-.article-card {
-  padding: 24px;
-}
-
-.article-card-featured {
-  display: flex;
-  flex-direction: column;
-  justify-content: end;
-  min-height: 320px;
-  background:
-    linear-gradient(155deg, rgba(255, 250, 244, 0.92), rgba(219, 234, 254, 0.9)),
-    var(--surface);
-}
-
-.article-card a {
-  margin-top: 18px;
-  color: var(--primary-deep);
-  font-weight: 700;
-}
-
-.article-list {
-  display: grid;
-  gap: 18px;
 }
 
 .publication-note {
@@ -435,12 +405,9 @@ p {
 }
 
 .contact-card {
-  display: grid;
-  grid-template-columns: minmax(0, 1.2fr) minmax(280px, 0.8fr);
-  gap: 32px;
+  display: block;
   padding: 36px;
   border-radius: var(--radius-xl);
-  align-items: center;
   background:
     linear-gradient(145deg, rgba(255, 249, 243, 0.94), rgba(219, 234, 254, 0.72)),
     var(--surface);
@@ -460,16 +427,15 @@ p {
 }
 
 .contact-links {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  display: flex;
+  flex-wrap: wrap;
   gap: 14px;
-  align-content: start;
+  margin-top: 24px;
 }
 
 .contact-link {
   justify-content: flex-start;
   gap: 12px;
-  width: 100%;
 }
 
 .contact-icon {
@@ -491,8 +457,6 @@ p {
 
 @media (max-width: 960px) {
   .hero,
-  .writing-layout,
-  .contact-card,
   .about-block,
   .card-grid {
     grid-template-columns: 1fr;
@@ -531,10 +495,6 @@ p {
   }
 
   .mini-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .contact-links {
     grid-template-columns: 1fr;
   }
 
