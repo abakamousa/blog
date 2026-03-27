@@ -436,20 +436,40 @@ p {
 
 .contact-card {
   display: grid;
-  grid-template-columns: 1.3fr 0.7fr;
-  gap: 24px;
+  grid-template-columns: minmax(0, 1.2fr) minmax(280px, 0.8fr);
+  gap: 32px;
   padding: 36px;
   border-radius: var(--radius-xl);
+  align-items: center;
+  background:
+    linear-gradient(145deg, rgba(255, 249, 243, 0.94), rgba(219, 234, 254, 0.72)),
+    var(--surface);
+}
+
+.contact-copy {
+  max-width: 56ch;
+}
+
+.contact-copy h2 {
+  max-width: 12ch;
+  margin-top: 10px;
+}
+
+.contact-copy p:last-child {
+  margin-bottom: 0;
 }
 
 .contact-links {
   display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
   align-content: start;
 }
 
 .contact-link {
   justify-content: flex-start;
   gap: 12px;
+  width: 100%;
 }
 
 .contact-icon {
@@ -511,6 +531,10 @@ p {
   }
 
   .mini-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .contact-links {
     grid-template-columns: 1fr;
   }
 
